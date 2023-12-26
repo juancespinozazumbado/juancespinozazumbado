@@ -6,11 +6,10 @@ Well-versed in Docker and Azure Cloud, and SQL databases like PostgreSQL and SQL
 ## <a href="https://www.linkedin.com/in/juan-carlos-espinoza-zumbado-16802a7b"><img src="https://img.shields.io/badge/-LinkedIn-2D2B55?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juancespinozazumbado&show_icons=true&theme=dark" alt="juanka" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=juancespinozazumbado&show_icons=true&theme=dark" alt="juanka" />
 <a/>
-
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancespinozazumbado&layout=compact&hide=html&theme=dark" alt="juanka" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancespinozazumbado&layout=compact&hide=html&theme=dark" alt="juanka" />
 <a/>
 <br />
 
