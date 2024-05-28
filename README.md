@@ -5,16 +5,16 @@ I´m a passionate software engineer specializing in ASP.NET and .NET Core techno
 Well-versed in Docker and Azure Cloud, and SQL databases like PostgreSQL and SQLServer. I am dedicated to staying ahead of the latest advancements in software development. Eager to contribute my skills to innovative projects and always excited about learning new technologies. Let's connect and explore opportunities in the dynamic world of software development!.
  
 ##
-<p>
+
  ![juan stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juancespinozazumbado&theme=radical)
-</p>
+
 
 <p align="center">
   <a href="https://github.com/juancespinozazumbado">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=juancespinozazumbado&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
 </p>
-<p>
+<p align="center">
    <a href="https://github.com/juancespinozazumbado">
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancespinozazumbado&langs_count=15&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&layout=compact&hide_border=true" />
   </a>
