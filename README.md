@@ -12,7 +12,7 @@
  
 ##
 
-<p>
+<p align="center">
   <a href="https://github.com/juancespinozazumbado">
    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juancespinozazumbado&theme=radical"/>
 </p>
