@@ -1,5 +1,5 @@
 ### Hi there 👋  
-<div align="left"> <a href="https://www.linkedin.com/in/juan-carlos-espinoza-zumbado"><img src="https://img.shields.io/badge/-LinkedIn-2D2B55?style=flat-square&logo=linkedin&logoColor=white"/></a></div>
+<div align="center"> <a href="https://www.linkedin.com/in/juan-carlos-espinoza-zumbado"><img src="https://img.shields.io/badge/-LinkedIn-2D2B55?style=flat-square&logo=linkedin&logoColor=white"/></a></div>
 
 - 🔭 I’m currently working on Persoal Portfolio
 - 🌱 I’m currently learning React js
