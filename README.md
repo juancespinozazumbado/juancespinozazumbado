@@ -1,13 +1,21 @@
 ### Hi there 👋  
 <div align="left"> <a href="https://www.linkedin.com/in/juan-carlos-espinoza-zumbado"><img src="https://img.shields.io/badge/-LinkedIn-2D2B55?style=flat-square&logo=linkedin&logoColor=white"/></a></div>
 
-I´m a passionate software engineer specializing in ASP.NET and .NET Core technologies. Proficient in asp.Net core, HTML,CSS and JavaScript, experienced in version control with Git. 
-Well-versed in Docker and Azure Cloud, and SQL databases like PostgreSQL and SQLServer. I am dedicated to staying ahead of the latest advancements in software development. Eager to contribute my skills to innovative projects and always excited about learning new technologies. Let's connect and explore opportunities in the dynamic world of software development!.
+- 🔭 I’m currently working on Persoal Portfolio
+- 🌱 I’m currently learning React js
+- 👯 I’m looking to collaborate on inovate projects ideas
+- 🤔 I’m looking for help with Coding and Data structures
+- 💬 Ask me about .Net | Java
+  <!-- - 📫 How to reach me: ...  -- >
+<!-- - 😄 Pronouns: ...  -->
+<!-- - ⚡ Fun fact: ... -->
  
 ##
 
- ![juan stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juancespinozazumbado&theme=radical)
-
+<p>
+  <a href="https://github.com/juancespinozazumbado">
+   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juancespinozazumbado&theme=radical"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/juancespinozazumbado">
