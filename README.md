@@ -4,7 +4,7 @@
 - I’m currently working on my Personal Portfolio.
 - 🌱 I’m currently learning React.js.
 - 🚀 I’m looking to collaborate on innovative project ideas.
-- 🤔 I’m looking for help with coding and data structures.
+- 🤔 I’m able to help with coding and data structures.
 - 💬 Ask me about .NET or Java.
 
   <!-- - 📫 How to reach me: ...  -- >
