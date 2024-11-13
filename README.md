@@ -1,7 +1,6 @@
 ### Hi there 👋  
 <div align="left"> <a href="https://www.linkedin.com/in/juan-carlos-espinoza-zumbado"><img src="https://img.shields.io/badge/-LinkedIn-2D2B55?style=flat-square&logo=linkedin&logoColor=white"/></a></div>
 
-- I’m currently working on my Personal Portfolio.
 - 🌱 I’m currently learning React.js.
 - 🚀 I’m looking to collaborate on innovative project ideas.
 - 🤔 I’m able to help with coding and data structures.
