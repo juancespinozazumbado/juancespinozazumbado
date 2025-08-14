@@ -23,7 +23,7 @@
   </a>
 
   <a href="https://github.com/juancespinozazumbado">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancespinozazumbado&langs_count=6&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&layout=compact&hide_border=true" />
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancespinozazumbado&langs_count=10&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&layout=compact&hide_border=true" />
   </a>
 </p>
 
