@@ -1,5 +1,5 @@
 ### Hi there 👋  
-<div align="left"> <a href="https://www.linkedin.com/in/juan-carlos-espinoza-zumbado"><img src="https://img.shields.io/badge/-LinkedIn-2D2B55?style=flat-square&logo=linkedin&logoColor=white"/></a></div>
+<div align="left"> <a href="[https://www.linkedin.com/in/juan-carlos-espinoza-zumbado](https://www.linkedin.com/in/juancarlosespinozazumbado/)"><img src="https://img.shields.io/badge/-LinkedIn-2D2B55?style=flat-square&logo=linkedin&logoColor=white"/></a></div>
 
 - 🌱 I’m currently working as a software developer.
 - 🚀 I’m looking to collaborate on innovative project ideas.
